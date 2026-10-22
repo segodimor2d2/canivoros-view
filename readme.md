@@ -28,6 +28,48 @@ Tienda física
 
 ---
 
+La principal diferencia es:
+
+- CRM (Customer Relationship Management): gestiona la relación con los clientes, las oportunidades comerciales y las ventas.
+- ERP (Enterprise Resource Planning): gestiona los recursos y procesos internos de la empresa, como inventario, compras, finanzas, producción y facturación.
+
+## Comparación entre CRM y ERP
+
+| Funcionalidad          | CRM                | ERP      |
+| ---------------------- | ------------------ | -------- |
+| Registro de clientes   | Sí                 | Sí       |
+| Historial de contactos | Sí                 | Limitado |
+| Embudo de ventas       | Sí                 | A veces  |
+| Control de inventario  | Raramente          | Sí       |
+| Compras y proveedores  | Raramente          | Sí       |
+| Control financiero     | Limitado           | Sí       |
+| Emisión de facturas    | Raramente          | Sí       |
+| Gestión de producción  | No suele incluirse | Sí       |
+| Marketing y campañas   | Sí                 | A veces  |
+
+## ¿Cómo trabajan juntos CRM, ERP y comercio electrónico?
+
+
+## Ejemplos de sistemas
+
+| Sistema     | Tipo                             |
+| ----------- | -------------------------------- |
+| Odoo        | ERP + CRM + comercio electrónico |
+| ERPNext     | ERP + CRM                        |
+| HubSpot CRM | CRM                              |
+| Salesforce  | CRM y soluciones empresariales   |
+| Bling       | ERP                              |
+| WooCommerce | Comercio electrónico             |
+
+## ¿Cuál sería mejor para tu empresa?
+
+Pensando en una empresa que comercializa alimentos para perros, podrías utilizar:
+
+1. eCommerce: tienda virtual donde los clientes realizan sus compras.
+2. ERP: controla el inventario, la compra de materias primas, la producción, los pedidos y la facturación.
+3. CRM: administra clientes, distribuidores, negociaciones y oportunidades de venta.
+
+---
 
 ## Alcance de la conversación
 
