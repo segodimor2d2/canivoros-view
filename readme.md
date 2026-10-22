@@ -1,5 +1,34 @@
 # canivoros-view
 
+## Principales sistemas empresariales
+
+| Sigla | Nombre | Función principal |
+| --- | --- | --- |
+| ERP | Planificación de recursos empresariales | Gestión integrada de inventario, ventas, compras, finanzas y operaciones |
+| CRM | Gestión de relaciones con los clientes | Gestión de clientes, contactos, oportunidades comerciales y relaciones |
+| PDV / POS | Punto de venta | Registro de ventas, pagos y emisión de comprobantes |
+| WMS | Sistema de gestión de almacenes | Gestión de almacenes, ubicación y movimientos del inventario |
+| OMS | Sistema de gestión de pedidos | Gestión de pedidos, desde la compra hasta la entrega |
+| PIM | Gestión de información de productos | Gestión centralizada de la información y los catálogos de productos |
+| E-commerce | Comercio electrónico | Tienda online, carrito, proceso de pago y pedidos |
+
+## ¿Cómo se relacionan estos sistemas?
+
+### ERP — Gestión central de la empresa
+Productos · Inventario · Ventas · Finanzas · Compras
+
+### E-commerce
+Tienda online
+
+### CRM
+Clientes
+
+### PDV / POS
+Tienda física
+
+---
+
+
 ## Alcance de la conversación
 
 Las respuestas permiten describir cómo se compra, recibe y utiliza la materia prima, además de identificar problemas de inventario, devoluciones y mantenimiento. Todavía falta completar el recorrido hasta la venta, entrega y cobro al cliente.
@@ -137,3 +166,11 @@ Este alcance todavía no cubre todo el ERP. Falta levantar pedidos, precios de v
 La siguiente conversación debería centrarse en tres ejemplos reales: una entrega de materia prima, un lote fabricado y una devolución. Para cada uno conviene recoger fechas, pesos, personas, documentos y movimientos de dinero.
 
 En paralelo, hace falta revisar las máquinas que más fallan y completar el proceso comercial hasta la entrega y el cobro. Con esa información se podrá acordar qué entra en la primera versión del ERP y qué queda para una etapa posterior.
+
+
+---
+
+```bash
+cd /home/segodimo/10php/canivorosview/ | term
+```
+---
