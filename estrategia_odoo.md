@@ -84,3 +84,22 @@ El lanzamiento inicial tendría pocos productos y una cobertura de entrega limit
 
 Las fechas de entrega de cada etapa se fijarán con la disponibilidad del equipo. Es preferible avanzar cuando el proceso funciona que cumplir un calendario dejando registros incompletos.
 
+**Mi recomendación para el primer piloto:** elegir a una persona de ventas, cargar los clientes y productos activos, y gestionar sus pedidos nuevos en Odoo. Al mismo tiempo, preparar el control de inventario y registrar oportunidades de distribuidores. Eso dará utilidad inmediata al sistema y una base sólida para abrir la tienda.
+
+---
+
+**Empecemos por documentar un pedido real y preparar el entorno local de Odoo Community.** Así configuraremos el sistema alrededor de cómo vende Canívoros.
+
+Para el primer piloto, el alcance será pequeño: **clientes, productos y pedidos de venta**. El CRM atenderá las consultas que todavía no se convierten en pedidos.
+
+Necesito que me cuentes cómo se gestionó **el último pedido**
+
+1. ¿Llegó por WhatsApp, llamada, distribuidor u otro canal?
+2. ¿Quién lo recibió y dónde lo anotó?
+3. ¿Qué producto, presentación, cantidad y precio se vendió?
+4. ¿Cómo verificaron que había existencias?
+5. ¿Quién preparó y entregó el pedido?
+6. ¿Cómo y cuándo pagó el cliente?
+7. ¿Cómo supieron que el pedido ya estaba terminado?
+
+Con ese ejemplo definiremos el primer recorrido de prueba: **registrar cliente → crear pedido → confirmar → entregar → registrar el pago**.
